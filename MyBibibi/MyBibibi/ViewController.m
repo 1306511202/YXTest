@@ -1,6 +1,7 @@
 //
 //  ViewController.m
-//  MyBibibi
+//
+
 //
 //  Created by QingWang on 16/3/23.
 //  Copyright © 2016年 iyuanxu.com. All rights reserved.
@@ -16,7 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"哈哈");
 }
 
 - (void)didReceiveMemoryWarning {
